@@ -1,0 +1,28 @@
+{
+    "name": "1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "pxt-robotcar": "github:veilkrand/pxt-robotcar#v0.0.14",
+        "radio-broadcast": "*",
+        "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3",
+        "tinkercademy-tinker-kit": "github:tinkertanker/pxt-tinkercademy-tinker-kit#v1.1.1",
+        "BitBot": "github:4tronix/bitbot#1.4.6",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.5.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
